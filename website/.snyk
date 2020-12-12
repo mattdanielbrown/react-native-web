@@ -102,6 +102,122 @@ patch:
         patched: '2020-12-12T06:36:33.677Z'
     - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-generator-functions > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-template > babel-traverse > debug':
         patched: '2020-12-12T06:36:33.677Z'
+    - webpack > micromatch > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > micromatch > braces > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > micromatch > extglob > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > micromatch > nanomatch > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > react-dev-utils > globby > fast-glob > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > braces > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > react-dev-utils > globby > fast-glob > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > react-dev-utils > globby > fast-glob > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > react-dev-utils > globby > fast-glob > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > react-dev-utils > globby > fast-glob > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > react-dev-utils > globby > fast-glob > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > react-dev-utils > globby > fast-glob > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > react-dev-utils > globby > fast-glob > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > react-dev-utils > globby > fast-glob > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > braces > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > braces > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > react-dev-utils > globby > fast-glob > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2020-12-12T06:40:15.441Z'
   'npm:extend:20180424':
     - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > extend:
         patched: '2020-12-12T06:36:33.677Z'
