@@ -5,18 +5,22 @@
   "scripts": {
     "build": "build-storybook -o ./dist -c ./storybook/.storybook",
     "start": "start-storybook -p 9001 -c ./storybook/.storybook",
-    "release": "yarn build && git checkout gh-pages && rm -rf ../storybook && mv dist ../storybook && git add -A && git commit -m \"Storybook deploy\" && git push origin gh-pages && git checkout -"
+    "release": "yarn build && git checkout gh-pages && rm -rf ../storybook && mv dist ../storybook && git add -A && git commit -m \"Storybook deploy\" && git push origin gh-pages && git checkout -",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
     "@storybook/addon-options": "^3.3.6",
-    "@storybook/react": "^3.3.6",
+    "@storybook/react": "^4.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-native-web": "0.5.3"
+    "react-native-web": "0.5.3",
+    "snyk": "^1.436.0"
   },
   "devDependencies": {
     "babel-plugin-react-native-web": "0.5.3",
-    "url-loader": "^0.6.2",
-    "webpack": "^3.10.0"
-  }
+    "url-loader": "^1.0.0",
+    "webpack": "^4.0.0"
+  },
+  "snyk": true
 }

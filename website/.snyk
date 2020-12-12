@@ -1,0 +1,150 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-block-scoping > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-parameters > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-block-scoping > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-computed-properties > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-modules-commonjs > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-modules-amd > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-modules-systemjs > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-modules-umd > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-parameters > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-helper-function-name > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-function-name > babel-helper-function-name > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-helper-replace-supers > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-object-super > babel-helper-replace-supers > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-parameters > babel-helper-call-delegate > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-helper-function-name > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-function-name > babel-helper-function-name > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-helper-replace-supers > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-object-super > babel-helper-replace-supers > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-modules-amd > babel-plugin-transform-es2015-modules-commonjs > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-modules-umd > babel-plugin-transform-es2015-modules-amd > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-plugin-transform-class-constructor-call > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-helper-define-map > babel-helper-function-name > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-exponentiation-operator > babel-helper-builder-binary-assignment-operator-visitor > babel-helper-explode-assignable-expression > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > tar-pack > debug:
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > tar-pack > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-classes > babel-helper-define-map > babel-helper-function-name > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-env > babel-plugin-transform-es2015-modules-umd > babel-plugin-transform-es2015-modules-amd > babel-plugin-transform-es2015-modules-commonjs > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-plugin-transform-class-properties > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-plugin-transform-decorators > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-plugin-transform-class-properties > babel-helper-function-name > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-plugin-transform-decorators > babel-helper-explode-class > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > tar-pack > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-plugin-transform-class-properties > babel-helper-function-name > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-generator-functions > babel-helper-remap-async-to-generator > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-plugin-transform-decorators > babel-helper-explode-class > babel-helper-bindify-decorators > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-generator-functions > babel-helper-remap-async-to-generator > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-generator-functions > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-exponentiation-operator > babel-helper-builder-binary-assignment-operator-visitor > babel-helper-explode-assignable-expression > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > babel-preset-stage-0 > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-generator-functions > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-template > babel-traverse > debug':
+        patched: '2020-12-12T06:36:33.677Z'
+  'npm:extend:20180424':
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > extend:
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > extend':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > extend':
+        patched: '2020-12-12T06:36:33.677Z'
+  'npm:hoek:20180212':
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > hoek:
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek:
+        patched: '2020-12-12T06:36:33.677Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek:
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek':
+        patched: '2020-12-12T06:36:33.677Z'
+  'npm:stringstream:20180511':
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > stringstream:
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > stringstream':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > stringstream':
+        patched: '2020-12-12T06:36:33.677Z'
+  'npm:tough-cookie:20170905':
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > tough-cookie:
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > tough-cookie':
+        patched: '2020-12-12T06:36:33.677Z'
+    - '@storybook/react > @storybook/core > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > tough-cookie':
+        patched: '2020-12-12T06:36:33.677Z'
