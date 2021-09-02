@@ -14,7 +14,7 @@
     "create-react-class": "^15.6.2",
     "debounce": "^1.1.0",
     "deep-assign": "^2.0.0",
-    "fbjs": "^0.8.16",
+    "fbjs": "^2.0.0",
     "hyphenate-style-name": "^1.0.2",
     "inline-style-prefixer": "^4.0.0",
     "normalize-css-color": "^1.0.2",
