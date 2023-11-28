@@ -34,7 +34,7 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-flow": "^6.23.0",
     "babel-preset-react": "^6.24.1",
-    "babel-preset-react-native": "^4.0.0",
+    "babel-preset-react-native": "^5.0.0",
     "caniuse-api": "^2.0.0",
     "del-cli": "^1.1.0",
     "enzyme": "^3.3.0",
