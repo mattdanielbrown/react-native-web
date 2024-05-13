@@ -11,16 +11,16 @@
   },
   "dependencies": {
     "@storybook/addon-options": "^3.3.6",
-    "@storybook/react": "^4.0.0",
+    "@storybook/react": "^6.2.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-native-web": "0.5.3",
-    "snyk": "^1.436.0"
+    "snyk": "^1.996.0"
   },
   "devDependencies": {
     "babel-plugin-react-native-web": "0.5.3",
     "url-loader": "^1.0.0",
-    "webpack": "^4.0.0"
+    "webpack": "^5.0.0"
   },
   "snyk": true
 }
