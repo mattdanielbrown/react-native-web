@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@storybook/addon-options": "^3.3.6",
-    "@storybook/react": "^4.0.0",
+    "@storybook/react": "^6.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-native-web": "0.5.3",
