@@ -9,7 +9,7 @@
   "dependencies": {
     "aphrodite": "1.2.5",
     "classnames": "^2.2.5",
-    "d3-scale-chromatic": "^1.2.0",
+    "d3-scale-chromatic": "^3.0.0",
     "emotion": "^9.0.2",
     "fela": "^6.1.4",
     "glamor": "2.20.40",
@@ -31,6 +31,6 @@
     "css-loader": "^0.28.10",
     "style-loader": "^2.0.0",
     "webpack": "^3.10.0",
-    "webpack-bundle-analyzer": "^2.9.2"
+    "webpack-bundle-analyzer": "^3.0.0"
   }
 }
